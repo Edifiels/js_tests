@@ -1,0 +1,9 @@
+{
+  "extensions": [".js"],
+  "spec": "./test/**/*.test.js",
+  "package": "./package.json",
+  "recursive": true,
+  "node-option": [
+    "experimental-vm-modules"
+  ]
+}
